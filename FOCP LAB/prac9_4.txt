@@ -1,0 +1,2 @@
+w,ksh,w,f
+ds,d,sd,d
